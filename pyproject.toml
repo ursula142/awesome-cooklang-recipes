@@ -1,0 +1,5 @@
+[project]
+name = "awesome-cooklang-recipes"
+version = "0.1.0"
+description = "A curated list of cookbooks and recipes involving the use of the cooklang recipe markup language"
+requires-python = ">=3.10"
